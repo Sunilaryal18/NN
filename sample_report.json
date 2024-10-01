@@ -1,0 +1,2198 @@
+{
+  "cows": [
+    {
+      "avg_milk_production": 4.751957123098202,
+      "avg_weight": 545.0823749491664,
+      "birthdate": "2020-01-09",
+      "id": "c821a6b7-8dd0-4b4e-9835-1c0c57264ba4",
+      "latest_milk": {
+        "sensor_id": "1519382a-3b09-4ce1-af50-3cbd457cfcbc",
+        "timestamp": 1720648800.0,
+        "value": 4.78
+      },
+      "latest_weight": {
+        "sensor_id": "8670604c-c6bd-4af1-a801-d3801a2d9b58",
+        "timestamp": 1720677600.0,
+        "value": 540.34
+      },
+      "name": "Lindsey #4"
+    },
+    {
+      "avg_milk_production": 4.750735338802795,
+      "avg_weight": 546.2561686919228,
+      "birthdate": "2019-09-09",
+      "id": "71122813-53a2-4a95-bc73-4a5725ab2d41",
+      "latest_milk": {
+        "sensor_id": "5b6ddcdf-e8d8-402b-852e-2d75ef23f025",
+        "timestamp": 1720692000.0,
+        "value": 4.97
+      },
+      "latest_weight": {
+        "sensor_id": "e96c8b8d-a608-41e2-97bf-cac6f0d34706",
+        "timestamp": 1720677600.0,
+        "value": 549.74
+      },
+      "name": "Linda #3"
+    },
+    {
+      "avg_milk_production": 4.751333141376332,
+      "avg_weight": 551.9886009693054,
+      "birthdate": "2019-06-17",
+      "id": "aea1439d-68a9-4e0b-a757-76dbe7fe6561",
+      "latest_milk": {
+        "sensor_id": "25513cb1-8113-42a9-8f6d-25810de2ba68",
+        "timestamp": 1720677600.0,
+        "value": 4.86
+      },
+      "latest_weight": {
+        "sensor_id": "d42034a3-b169-4f10-88db-62b00fa256f4",
+        "timestamp": 1720692000.0,
+        "value": 558.83
+      },
+      "name": "Sandra #3"
+    },
+    {
+      "avg_milk_production": 4.7549292001530805,
+      "avg_weight": 547.5147797867407,
+      "birthdate": "2020-04-17",
+      "id": "668d213f-6b1d-4aac-bdc6-cee5acf3476e",
+      "latest_milk": {
+        "sensor_id": "b2eb2d27-a4b0-4ef8-8899-38d965d3d4b8",
+        "timestamp": 1720692000.0,
+        "value": 4.99
+      },
+      "latest_weight": {
+        "sensor_id": "f8945419-1cea-4416-bc1c-e398257e58e9",
+        "timestamp": 1720634400.0,
+        "value": 543.54
+      },
+      "name": "Kathryn #1"
+    },
+    {
+      "avg_milk_production": 4.750483024151207,
+      "avg_weight": 551.5012689938399,
+      "birthdate": "2020-01-20",
+      "id": "47a81ce1-859a-4db9-b8ad-a27cb9dc462f",
+      "latest_milk": {
+        "sensor_id": "4e9fa84c-ce7e-4e74-9eff-2b2f52493e13",
+        "timestamp": 1720677600.0,
+        "value": 4.6
+      },
+      "latest_weight": {
+        "sensor_id": "b3f77f5b-d069-4e8c-a989-4be3f683e54e",
+        "timestamp": 1720620000.0,
+        "value": 553.36
+      },
+      "name": "Anna #1"
+    },
+    {
+      "avg_milk_production": 4.743275109170306,
+      "avg_weight": 547.3825814536341,
+      "birthdate": "2021-09-22",
+      "id": "85a129d2-0380-450e-a868-b8309bd7550f",
+      "latest_milk": {
+        "sensor_id": "c1f5b43e-c3f7-461e-b00b-d6d07e1c4446",
+        "timestamp": 1720692000.0,
+        "value": 4.69
+      },
+      "latest_weight": {
+        "sensor_id": "7cda5124-7d65-443c-b5e6-789cc4aee8ee",
+        "timestamp": 1720620000.0,
+        "value": 548.72
+      },
+      "name": "Carla #3"
+    },
+    {
+      "avg_milk_production": 4.744581850533808,
+      "avg_weight": 544.7643438453713,
+      "birthdate": "2020-07-18",
+      "id": "f7e0cdbc-b23e-483a-8d78-b266a932a3c1",
+      "latest_milk": {
+        "sensor_id": "0005e2b2-287a-4c04-8c87-59d336c2948c",
+        "timestamp": 1720692000.0,
+        "value": 4.8
+      },
+      "latest_weight": {
+        "sensor_id": "eaacc151-6ca5-4e68-8b03-4354e865b5fb",
+        "timestamp": 1720648800.0,
+        "value": 543.1
+      },
+      "name": "Heather #5"
+    },
+    {
+      "avg_milk_production": 4.74744831196022,
+      "avg_weight": 560.21320194057,
+      "birthdate": "2019-03-08",
+      "id": "7203c734-bdb2-421e-a97a-d62c9ada2d10",
+      "latest_milk": {
+        "sensor_id": "0c34d551-59e6-490f-b5ba-18cc261be5db",
+        "timestamp": 1720648800.0,
+        "value": 4.61
+      },
+      "latest_weight": {
+        "sensor_id": "18d334f4-ffb1-4f09-8998-07370fa5e99f",
+        "timestamp": 1720677600.0,
+        "value": 558.99
+      },
+      "name": "Mary #1"
+    },
+    {
+      "avg_milk_production": 4.7471505376344085,
+      "avg_weight": 553.359763181412,
+      "birthdate": "2020-04-06",
+      "id": "ef082efc-d476-4ca4-89a8-94d4cf09392a",
+      "latest_milk": {
+        "sensor_id": "0c0bc9b0-6572-4ee8-bfa0-908ba19b5c44",
+        "timestamp": 1720692000.0,
+        "value": 4.53
+      },
+      "latest_weight": {
+        "sensor_id": "1d0ef964-28de-488e-9b58-607c0db8e9fb",
+        "timestamp": 1720677600.0,
+        "value": 552.77
+      },
+      "name": "Kelly #4"
+    },
+    {
+      "avg_milk_production": 4.7471520390070925,
+      "avg_weight": 545.13041218638,
+      "birthdate": "2018-07-31",
+      "id": "ade0509d-9078-4159-a207-b866725d2218",
+      "latest_milk": {
+        "sensor_id": "5b6ddcdf-e8d8-402b-852e-2d75ef23f025",
+        "timestamp": 1720648800.0,
+        "value": 4.65
+      },
+      "latest_weight": {
+        "sensor_id": "f202078a-8a21-4481-bbfe-dfce9a49eb71",
+        "timestamp": 1720692000.0,
+        "value": 539.91
+      },
+      "name": "Destiny #1"
+    },
+    {
+      "avg_milk_production": 4.746427879961278,
+      "avg_weight": 547.8426477541371,
+      "birthdate": "2021-08-26",
+      "id": "3b2547ed-de1a-4992-8494-bebabfaef6b4",
+      "latest_milk": {
+        "sensor_id": "77ec18d1-1bbf-472c-85aa-54405758afbd",
+        "timestamp": 1720692000.0,
+        "value": 4.96
+      },
+      "latest_weight": {
+        "sensor_id": "006d738e-d053-4a3d-9c28-7cbd27e60633",
+        "timestamp": 1720663200.0,
+        "value": 546.86
+      },
+      "name": "Jessica #9"
+    },
+    {
+      "avg_milk_production": 4.75084388185654,
+      "avg_weight": 552.1636522539098,
+      "birthdate": "2020-05-27",
+      "id": "071f30bb-3b8a-445b-8c5f-dff6c77c1af8",
+      "latest_milk": {
+        "sensor_id": "a81ab9c7-1e12-435a-8157-1f3e84bc0937",
+        "timestamp": 1720663200.0,
+        "value": 4.68
+      },
+      "latest_weight": {
+        "sensor_id": "ce187dda-055c-4e71-ad07-cc7f5c5c8ded",
+        "timestamp": 1720692000.0,
+        "value": 550.64
+      },
+      "name": "Ashley #1"
+    },
+    {
+      "avg_milk_production": 4.752582602832097,
+      "avg_weight": 544.6175669291339,
+      "birthdate": "2021-03-27",
+      "id": "f5c0dc0e-aa4e-45af-9b17-8aa3366a7bc6",
+      "latest_milk": {
+        "sensor_id": "25513cb1-8113-42a9-8f6d-25810de2ba68",
+        "timestamp": 1720692000.0,
+        "value": 4.66
+      },
+      "latest_weight": {
+        "sensor_id": "20e84437-8457-4aee-93d2-41c701dc9e64",
+        "timestamp": 1720634400.0,
+        "value": 540.81
+      },
+      "name": "Diane #8"
+    },
+    {
+      "avg_milk_production": 4.746875271621034,
+      "avg_weight": 549.3761431513904,
+      "birthdate": "2018-07-25",
+      "id": "edb28bf0-bf09-4469-b9b3-7d2a1dd45ff1",
+      "latest_milk": {
+        "sensor_id": "598e5076-9673-4c23-8381-9fb0a94286b0",
+        "timestamp": 1720692000.0,
+        "value": 4.76
+      },
+      "latest_weight": {
+        "sensor_id": "27d8479a-a5f6-4820-8e45-b84f0a17ac61",
+        "timestamp": 1720663200.0,
+        "value": 550.04
+      },
+      "name": "Veronica #4"
+    },
+    {
+      "avg_milk_production": 4.754388565378507,
+      "avg_weight": 542.8142934782609,
+      "birthdate": "2020-11-12",
+      "id": "38c98773-d708-47ae-af66-f722fabbc9d2",
+      "latest_milk": {
+        "sensor_id": "a81ab9c7-1e12-435a-8157-1f3e84bc0937",
+        "timestamp": 1720663200.0,
+        "value": 4.82
+      },
+      "latest_weight": {
+        "sensor_id": "488f8231-0a28-4b6b-a2f7-3b091845e8bf",
+        "timestamp": 1720648800.0,
+        "value": 543.12
+      },
+      "name": "Ashlee #9"
+    },
+    {
+      "avg_milk_production": 4.746809750927397,
+      "avg_weight": 552.7536239427455,
+      "birthdate": "2020-12-04",
+      "id": "b595d0d1-612b-4aef-a64a-1ee0471a5028",
+      "latest_milk": {
+        "sensor_id": "1519382a-3b09-4ce1-af50-3cbd457cfcbc",
+        "timestamp": 1720677600.0,
+        "value": 4.94
+      },
+      "latest_weight": {
+        "sensor_id": "69df0572-cd8b-4b24-9617-d9a7f710384e",
+        "timestamp": 1720648800.0,
+        "value": 553.05
+      },
+      "name": "Adriana #7"
+    },
+    {
+      "avg_milk_production": 4.750423728813559,
+      "avg_weight": 550.9286346863469,
+      "birthdate": "2022-03-27",
+      "id": "478be788-f84c-48da-8b62-c652cf2d118f",
+      "latest_milk": {
+        "sensor_id": "ee1aee69-7420-49d0-8500-305723a9cb46",
+        "timestamp": 1720663200.0,
+        "value": 4.73
+      },
+      "latest_weight": {
+        "sensor_id": "e96c8b8d-a608-41e2-97bf-cac6f0d34706",
+        "timestamp": 1720648800.0,
+        "value": 552.55
+      },
+      "name": "Jennifer #4"
+    },
+    {
+      "avg_milk_production": 4.748182636077373,
+      "avg_weight": 551.1868837459634,
+      "birthdate": "2020-08-15",
+      "id": "e3fdb0b6-d8ed-46c2-b0e2-0855373ddb49",
+      "latest_milk": {
+        "sensor_id": "6d0a00f7-57cf-4142-8d4a-c69475b85dcf",
+        "timestamp": 1720677600.0,
+        "value": 4.81
+      },
+      "latest_weight": {
+        "sensor_id": "ec7bd45f-7574-4267-be1d-67fb31272ae9",
+        "timestamp": 1720692000.0,
+        "value": 557.44
+      },
+      "name": "Sara #7"
+    },
+    {
+      "avg_milk_production": 4.745573248407643,
+      "avg_weight": 549.4336956521739,
+      "birthdate": "2022-04-03",
+      "id": "18fc0a5c-890f-4dd6-bde3-3e9a6ebf953e",
+      "latest_milk": {
+        "sensor_id": "fcac7acb-bd12-4292-be9d-bdf6862e2d41",
+        "timestamp": 1720692000.0,
+        "value": 4.77
+      },
+      "latest_weight": {
+        "sensor_id": "b272b897-893c-4d99-900a-3367346c97db",
+        "timestamp": 1720648800.0,
+        "value": 547.1
+      },
+      "name": "Shannon #8"
+    },
+    {
+      "avg_milk_production": 4.745996944232239,
+      "avg_weight": 546.1556820156385,
+      "birthdate": "2021-05-18",
+      "id": "0c36be13-c29f-4ee0-b386-e936c6ba5339",
+      "latest_milk": {
+        "sensor_id": "f6031d0a-b6c6-4ab2-a3ee-36a342d64e14",
+        "timestamp": 1720663200.0,
+        "value": 4.64
+      },
+      "latest_weight": {
+        "sensor_id": "92aeea8c-05e5-42c4-868f-90524fe57882",
+        "timestamp": 1720692000.0,
+        "value": 539.91
+      },
+      "name": "Angela #8"
+    },
+    {
+      "avg_milk_production": 4.752433179723503,
+      "avg_weight": 541.5251749734889,
+      "birthdate": "2021-07-29",
+      "id": "9c6cd124-db49-45cf-8973-b47419c74518",
+      "latest_milk": {
+        "sensor_id": "901caad8-cbf2-40bf-b574-c150f9f5af9f",
+        "timestamp": 1720692000.0,
+        "value": 4.77
+      },
+      "latest_weight": {
+        "sensor_id": "27d8479a-a5f6-4820-8e45-b84f0a17ac61",
+        "timestamp": 1720648800.0,
+        "value": 537.46
+      },
+      "name": "Ruth #4"
+    },
+    {
+      "avg_milk_production": 4.751774051191527,
+      "avg_weight": 553.4893790849674,
+      "birthdate": "2021-07-27",
+      "id": "e69e914f-2797-4ed1-a32f-606cb03fc6f2",
+      "latest_milk": {
+        "sensor_id": "b34e9bc9-4db4-4c87-b818-ab33969740fd",
+        "timestamp": 1720692000.0,
+        "value": 4.88
+      },
+      "latest_weight": {
+        "sensor_id": "86ed97f6-b9af-4b18-a224-ffaec6b59d22",
+        "timestamp": 1720677600.0,
+        "value": 557.25
+      },
+      "name": "Cathy #3"
+    },
+    {
+      "avg_milk_production": 4.743546296296296,
+      "avg_weight": 548.714989010989,
+      "birthdate": "2021-08-07",
+      "id": "0ad881c5-606c-46f4-a504-a3bbb4e23870",
+      "latest_milk": {
+        "sensor_id": "cc8cbca7-014a-4f30-b189-396f02915a1e",
+        "timestamp": 1720677600.0,
+        "value": 4.68
+      },
+      "latest_weight": {
+        "sensor_id": "1d0ef964-28de-488e-9b58-607c0db8e9fb",
+        "timestamp": 1720692000.0,
+        "value": 548.83
+      },
+      "name": "Lindsey #9"
+    },
+    {
+      "avg_milk_production": 4.750641443247307,
+      "avg_weight": 552.7547130789396,
+      "birthdate": "2019-01-20",
+      "id": "aa45b1f9-7982-4e84-b952-668d652e83f5",
+      "latest_milk": {
+        "sensor_id": "6aa0f8d4-4475-4755-9d0c-3ec47082e0a2",
+        "timestamp": 1720677600.0,
+        "value": 4.5
+      },
+      "latest_weight": {
+        "sensor_id": "ce187dda-055c-4e71-ad07-cc7f5c5c8ded",
+        "timestamp": 1720648800.0,
+        "value": 555.12
+      },
+      "name": "Nicole #4"
+    },
+    {
+      "avg_milk_production": 4.745853658536586,
+      "avg_weight": 550.918238095238,
+      "birthdate": "2022-04-25",
+      "id": "701861d0-d1eb-48f1-af03-8f2ffe7a6b17",
+      "latest_milk": {
+        "sensor_id": "5b6ddcdf-e8d8-402b-852e-2d75ef23f025",
+        "timestamp": 1720677600.0,
+        "value": 4.71
+      },
+      "latest_weight": {
+        "sensor_id": "0bff48eb-3ab9-42c8-8a60-a48e3d05e431",
+        "timestamp": 1720692000.0,
+        "value": 551.46
+      },
+      "name": "Michelle #2"
+    },
+    {
+      "avg_milk_production": 4.749912917271408,
+      "avg_weight": 549.0926285905144,
+      "birthdate": "2019-07-05",
+      "id": "0ebfdca5-b52e-4ee2-b896-bce145daebc7",
+      "latest_milk": {
+        "sensor_id": "98ebddd8-ef6b-4fd6-89f1-be1753b87f2c",
+        "timestamp": 1720692000.0,
+        "value": 4.62
+      },
+      "latest_weight": {
+        "sensor_id": "e96c8b8d-a608-41e2-97bf-cac6f0d34706",
+        "timestamp": 1720663200.0,
+        "value": 548.16
+      },
+      "name": "Elizabeth #2"
+    },
+    {
+      "avg_milk_production": 4.755612887596898,
+      "avg_weight": 547.8135224386114,
+      "birthdate": "2018-12-11",
+      "id": "95e7312d-9447-4c40-a382-ef30d850e997",
+      "latest_milk": {
+        "sensor_id": "bfbbb8d0-a908-449f-83e0-d3d9e6835087",
+        "timestamp": 1720605600.0,
+        "value": 4.74
+      },
+      "latest_weight": {
+        "sensor_id": "14bd6b76-e8b9-430a-a1e9-9a7c8bce2d02",
+        "timestamp": 1720677600.0,
+        "value": 550.29
+      },
+      "name": "Pamela #4"
+    },
+    {
+      "avg_milk_production": 4.7518274687854705,
+      "avg_weight": 543.8328310263777,
+      "birthdate": "2018-09-02",
+      "id": "27c13817-4faf-49dd-8984-643a062e3d75",
+      "latest_milk": {
+        "sensor_id": "217dabaf-41ef-4dea-8d3b-8d76acca81c1",
+        "timestamp": 1720692000.0,
+        "value": 4.9
+      },
+      "latest_weight": {
+        "sensor_id": "98bef2f6-8b68-4121-8c6c-075314c2d605",
+        "timestamp": 1720663200.0,
+        "value": 539.61
+      },
+      "name": "Gail #2"
+    },
+    {
+      "avg_milk_production": 4.744809688581315,
+      "avg_weight": 541.8404194756554,
+      "birthdate": "2019-10-14",
+      "id": "b38009eb-dc16-492d-9584-076fe51fd2ad",
+      "latest_milk": {
+        "sensor_id": "4e9fa84c-ce7e-4e74-9eff-2b2f52493e13",
+        "timestamp": 1720648800.0,
+        "value": 4.52
+      },
+      "latest_weight": {
+        "sensor_id": "1435c067-e50b-4a38-a978-c235e168756e",
+        "timestamp": 1720692000.0,
+        "value": 542.95
+      },
+      "name": "Mary #8"
+    },
+    {
+      "avg_milk_production": 4.74733,
+      "avg_weight": 551.2847076023393,
+      "birthdate": "2020-01-04",
+      "id": "2638ae21-5fc8-48fa-ad34-e66baf66cba3",
+      "latest_milk": {
+        "sensor_id": "6583fc27-200f-438c-8877-789b8124eba9",
+        "timestamp": 1720677600.0,
+        "value": 4.84
+      },
+      "latest_weight": {
+        "sensor_id": "9154dc56-de01-4713-8e4e-439c795d90dc",
+        "timestamp": 1720663200.0,
+        "value": 550.53
+      },
+      "name": "Anne #1"
+    },
+    {
+      "avg_milk_production": 4.750657370517928,
+      "avg_weight": 551.6204694835681,
+      "birthdate": "2021-08-30",
+      "id": "008d8c76-b26e-4780-b65a-cec19c9984b6",
+      "latest_milk": {
+        "sensor_id": "cc8cbca7-014a-4f30-b189-396f02915a1e",
+        "timestamp": 1720692000.0,
+        "value": 4.85
+      },
+      "latest_weight": {
+        "sensor_id": "f73eb918-2442-496c-b260-38b192be7250",
+        "timestamp": 1720620000.0,
+        "value": 554.42
+      },
+      "name": "Robin #3"
+    },
+    {
+      "avg_milk_production": 4.748446813666101,
+      "avg_weight": 550.817889573991,
+      "birthdate": "2018-12-05",
+      "id": "f20b9926-d224-48cf-9047-f6c7cc0cae6e",
+      "latest_milk": {
+        "sensor_id": "dac9bac6-5eff-469c-8f69-9a61890119bd",
+        "timestamp": 1720634400.0,
+        "value": 4.94
+      },
+      "latest_weight": {
+        "sensor_id": "0feab3cf-b258-4718-a985-2acad03b9aca",
+        "timestamp": 1720677600.0,
+        "value": 549.63
+      },
+      "name": "Jamie #9"
+    },
+    {
+      "avg_milk_production": 4.747038784067086,
+      "avg_weight": 551.0241854789506,
+      "birthdate": "2020-11-13",
+      "id": "219f0c25-d395-418d-b361-229c47588770",
+      "latest_milk": {
+        "sensor_id": "abe751f1-d074-4362-9581-7da0fb47964f",
+        "timestamp": 1720663200.0,
+        "value": 4.67
+      },
+      "latest_weight": {
+        "sensor_id": "27d8479a-a5f6-4820-8e45-b84f0a17ac61",
+        "timestamp": 1720677600.0,
+        "value": 544.75
+      },
+      "name": "Natasha #7"
+    },
+    {
+      "avg_milk_production": 4.752491375061607,
+      "avg_weight": 550.9991377828702,
+      "birthdate": "2018-12-31",
+      "id": "fa91ebe6-476f-469f-9d62-2f893fe210f6",
+      "latest_milk": {
+        "sensor_id": "a81ab9c7-1e12-435a-8157-1f3e84bc0937",
+        "timestamp": 1720677600.0,
+        "value": 4.58
+      },
+      "latest_weight": {
+        "sensor_id": "20e84437-8457-4aee-93d2-41c701dc9e64",
+        "timestamp": 1720663200.0,
+        "value": 543.31
+      },
+      "name": "Ashley #2"
+    },
+    {
+      "avg_milk_production": 4.753718244803696,
+      "avg_weight": 546.7124648129077,
+      "birthdate": "2019-07-18",
+      "id": "51803b38-c52d-4366-aced-fb05039408d0",
+      "latest_milk": {
+        "sensor_id": "14439f12-0126-443f-840c-721dab6b3703",
+        "timestamp": 1720663200.0,
+        "value": 4.94
+      },
+      "latest_weight": {
+        "sensor_id": "5b533d64-3fcb-40fa-a2e2-694b4db27469",
+        "timestamp": 1720692000.0,
+        "value": 544.44
+      },
+      "name": "Rebecca #5"
+    },
+    {
+      "avg_milk_production": 4.749138643067846,
+      "avg_weight": 553.0190043923865,
+      "birthdate": "2021-02-06",
+      "id": "3f35a21f-5ce8-4b9b-a6ea-67666aa6a183",
+      "latest_milk": {
+        "sensor_id": "c34e2bcf-671b-4402-86f7-41f6bf4ce3c3",
+        "timestamp": 1720677600.0,
+        "value": 4.88
+      },
+      "latest_weight": {
+        "sensor_id": "98bef2f6-8b68-4121-8c6c-075314c2d605",
+        "timestamp": 1720663200.0,
+        "value": 553.68
+      },
+      "name": "Angela #5"
+    },
+    {
+      "avg_milk_production": 4.750125618576323,
+      "avg_weight": 548.0102127659575,
+      "birthdate": "2020-03-30",
+      "id": "1b3641d0-954b-4a88-98de-29d22e7222e7",
+      "latest_milk": {
+        "sensor_id": "4e9fa84c-ce7e-4e74-9eff-2b2f52493e13",
+        "timestamp": 1720692000.0,
+        "value": 4.51
+      },
+      "latest_weight": {
+        "sensor_id": "f05434d6-ac86-48b5-a6f0-35c5aa0dab4b",
+        "timestamp": 1720663200.0,
+        "value": 543.19
+      },
+      "name": "Mary #8"
+    },
+    {
+      "avg_milk_production": 4.733326446280992,
+      "avg_weight": 549.2127293064876,
+      "birthdate": "2022-02-04",
+      "id": "fdb09b0b-9adf-41d2-9c83-b2e4ccd64c31",
+      "latest_milk": {
+        "sensor_id": "e2c35e7e-c850-42bf-8e53-b009905f7ea2",
+        "timestamp": 1720663200.0,
+        "value": 4.86
+      },
+      "latest_weight": {
+        "sensor_id": "64183e73-b494-42d1-9f7c-c344003f3205",
+        "timestamp": 1720677600.0,
+        "value": 548.85
+      },
+      "name": "Melanie #8"
+    },
+    {
+      "avg_milk_production": 4.752470119521912,
+      "avg_weight": 551.139656750572,
+      "birthdate": "2021-03-19",
+      "id": "38b0394f-6654-4693-978d-20f361c8cb85",
+      "latest_milk": {
+        "sensor_id": "a005ec1a-0f94-4e4f-aae1-a9385baf5545",
+        "timestamp": 1720677600.0,
+        "value": 4.93
+      },
+      "latest_weight": {
+        "sensor_id": "ee4e4415-4ab9-4a47-9b9d-8a6592557171",
+        "timestamp": 1720634400.0,
+        "value": 552.57
+      },
+      "name": "Lisa #8"
+    },
+    {
+      "avg_milk_production": 4.749573807507762,
+      "avg_weight": 545.877967631497,
+      "birthdate": "2019-05-17",
+      "id": "225153da-f330-42b7-8e6c-ad3d57582d4f",
+      "latest_milk": {
+        "sensor_id": "b34e9bc9-4db4-4c87-b818-ab33969740fd",
+        "timestamp": 1720692000.0,
+        "value": 4.84
+      },
+      "latest_weight": {
+        "sensor_id": "e6a85fd7-3420-4f54-83cc-771f57bad2d9",
+        "timestamp": 1720677600.0,
+        "value": 547.33
+      },
+      "name": "Jennifer #5"
+    },
+    {
+      "avg_milk_production": 4.75353702372394,
+      "avg_weight": 548.7215610766045,
+      "birthdate": "2020-02-06",
+      "id": "d1cf533d-d30d-457e-bea5-dd7d11db5139",
+      "latest_milk": {
+        "sensor_id": "e82116e3-0d88-4f1e-930d-cade628d8334",
+        "timestamp": 1720663200.0,
+        "value": 4.68
+      },
+      "latest_weight": {
+        "sensor_id": "a8ed9f67-f772-48d4-815b-730e686fe04c",
+        "timestamp": 1720677600.0,
+        "value": 540.26
+      },
+      "name": "Margaret #5"
+    },
+    {
+      "avg_milk_production": 4.754903175832688,
+      "avg_weight": 555.4634536082474,
+      "birthdate": "2021-05-18",
+      "id": "9b0bb133-05a4-4b72-9245-7333b1edb4f6",
+      "latest_milk": {
+        "sensor_id": "c9aac051-3edf-462a-b421-186f193ad095",
+        "timestamp": 1720692000.0,
+        "value": 4.65
+      },
+      "latest_weight": {
+        "sensor_id": "c84ab607-5b5e-4b8e-bfc9-f8abf07adaef",
+        "timestamp": 1720677600.0,
+        "value": 561.44
+      },
+      "name": "Jennifer #7"
+    },
+    {
+      "avg_milk_production": 4.75969696969697,
+      "avg_weight": 550.8088681948425,
+      "birthdate": "2021-11-11",
+      "id": "1738d527-c14e-4832-b40f-e8946f065d2c",
+      "latest_milk": {
+        "sensor_id": "c1f5b43e-c3f7-461e-b00b-d6d07e1c4446",
+        "timestamp": 1720677600.0,
+        "value": 4.56
+      },
+      "latest_weight": {
+        "sensor_id": "f73eb918-2442-496c-b260-38b192be7250",
+        "timestamp": 1720663200.0,
+        "value": 550.62
+      },
+      "name": "Barbara #5"
+    },
+    {
+      "avg_milk_production": 4.751884142773552,
+      "avg_weight": 550.407597577389,
+      "birthdate": "2019-07-16",
+      "id": "9351349b-0f0f-47b6-a67d-3b0fe843b019",
+      "latest_milk": {
+        "sensor_id": "4084f905-08ea-4b1c-b29f-6e6f595e96e1",
+        "timestamp": 1720692000.0,
+        "value": 4.75
+      },
+      "latest_weight": {
+        "sensor_id": "dfb0a082-b2ec-4ade-995d-94a8478a9f29",
+        "timestamp": 1720663200.0,
+        "value": 553.69
+      },
+      "name": "Melody #5"
+    },
+    {
+      "avg_milk_production": 4.7501097237987135,
+      "avg_weight": 546.3305917159763,
+      "birthdate": "2020-04-07",
+      "id": "dd57c558-d620-4d28-83a7-6370f4a61322",
+      "latest_milk": {
+        "sensor_id": "8565a6ea-504e-4c43-90be-a1c39e7f8e19",
+        "timestamp": 1720677600.0,
+        "value": 4.65
+      },
+      "latest_weight": {
+        "sensor_id": "f8945419-1cea-4416-bc1c-e398257e58e9",
+        "timestamp": 1720692000.0,
+        "value": 549.82
+      },
+      "name": "Crystal #2"
+    },
+    {
+      "avg_milk_production": 4.746504360465116,
+      "avg_weight": 548.4129509559435,
+      "birthdate": "2021-04-30",
+      "id": "8471d580-6405-438e-9eda-9eb61f4120b3",
+      "latest_milk": {
+        "sensor_id": "05680e47-a717-4dcc-be67-5e109c06e5dc",
+        "timestamp": 1720677600.0,
+        "value": 4.91
+      },
+      "latest_weight": {
+        "sensor_id": "b94c1de9-fc44-4e00-87b3-26ba739d5d4c",
+        "timestamp": 1720692000.0,
+        "value": 546.47
+      },
+      "name": "Elizabeth #8"
+    },
+    {
+      "avg_milk_production": 4.751477398015435,
+      "avg_weight": 553.5501476335215,
+      "birthdate": "2020-03-06",
+      "id": "6496ce06-18c2-4dd3-bcc3-4c8195a8c1f7",
+      "latest_milk": {
+        "sensor_id": "5b2fc779-7ef3-4f7c-83d9-e8ce555e86f5",
+        "timestamp": 1720677600.0,
+        "value": 4.86
+      },
+      "latest_weight": {
+        "sensor_id": "47bc7c8e-39ba-4f09-a65e-8a60612acd6b",
+        "timestamp": 1720663200.0,
+        "value": 554.86
+      },
+      "name": "Karla #7"
+    },
+    {
+      "avg_milk_production": 4.75096618357488,
+      "avg_weight": 527.7527906976744,
+      "birthdate": "2022-05-01",
+      "id": "fa5625d5-d657-40a7-9de9-a52af87aef1f",
+      "latest_milk": {
+        "sensor_id": "6583fc27-200f-438c-8877-789b8124eba9",
+        "timestamp": 1720677600.0,
+        "value": 4.89
+      },
+      "latest_weight": {
+        "sensor_id": "2885b72a-9240-489b-8800-d86276d5db02",
+        "timestamp": 1720692000.0,
+        "value": 452.41
+      },
+      "name": "Stacy #9"
+    },
+    {
+      "avg_milk_production": 4.741686746987952,
+      "avg_weight": 548.0815811088295,
+      "birthdate": "2022-01-11",
+      "id": "0461bf6a-4625-4c64-acb1-1221caeed82b",
+      "latest_milk": {
+        "sensor_id": "449f2b07-4345-4649-afc4-de169dcd4a21",
+        "timestamp": 1720677600.0,
+        "value": 4.96
+      },
+      "latest_weight": {
+        "sensor_id": "69df0572-cd8b-4b24-9617-d9a7f710384e",
+        "timestamp": 1720620000.0,
+        "value": 547.89
+      },
+      "name": "Kara #9"
+    },
+    {
+      "avg_milk_production": 4.7512428734321555,
+      "avg_weight": 545.5942049934297,
+      "birthdate": "2021-10-05",
+      "id": "4ab95eda-5937-49be-8425-b11d06f6beb2",
+      "latest_milk": {
+        "sensor_id": "581e8a81-2c67-4844-ac77-b08d362b8026",
+        "timestamp": 1720692000.0,
+        "value": 4.64
+      },
+      "latest_weight": {
+        "sensor_id": "98bef2f6-8b68-4121-8c6c-075314c2d605",
+        "timestamp": 1720677600.0,
+        "value": 543.94
+      },
+      "name": "Cheryl #5"
+    },
+    {
+      "avg_milk_production": 4.753428063943161,
+      "avg_weight": 555.6155406104501,
+      "birthdate": "2020-07-28",
+      "id": "fd3f2886-cc3d-4ecc-baae-587032183091",
+      "latest_milk": {
+        "sensor_id": "6c7f8313-ce6f-47fa-8716-9ce533631e4b",
+        "timestamp": 1720677600.0,
+        "value": 4.93
+      },
+      "latest_weight": {
+        "sensor_id": "0feab3cf-b258-4718-a985-2acad03b9aca",
+        "timestamp": 1720692000.0,
+        "value": 556.31
+      },
+      "name": "Connie #1"
+    },
+    {
+      "avg_milk_production": 4.7511343749999995,
+      "avg_weight": 547.4210575539569,
+      "birthdate": "2019-09-27",
+      "id": "f3208e67-07dc-4cfb-9ca1-b0d3750ea753",
+      "latest_milk": {
+        "sensor_id": "3b5b8ccc-ef41-4101-afe7-4c1d2fc4edab",
+        "timestamp": 1720663200.0,
+        "value": 4.78
+      },
+      "latest_weight": {
+        "sensor_id": "9a4ab2c6-79f4-42f6-9eac-f1bdfaee3dcd",
+        "timestamp": 1720692000.0,
+        "value": 549.33
+      },
+      "name": "Jennifer #7"
+    },
+    {
+      "avg_milk_production": 4.752134757959006,
+      "avg_weight": 560.4787443153108,
+      "birthdate": "2018-07-12",
+      "id": "3321b86f-3afb-4971-a773-3ae7c62bafec",
+      "latest_milk": {
+        "sensor_id": "3ba73b6c-009c-4838-ab73-4778d9f91743",
+        "timestamp": 1720692000.0,
+        "value": 4.88
+      },
+      "latest_weight": {
+        "sensor_id": "f52207b3-a8e4-4625-8702-2b8db90ef7f8",
+        "timestamp": 1720677600.0,
+        "value": 563.35
+      },
+      "name": "Kayla #2"
+    },
+    {
+      "avg_milk_production": 4.750180457746479,
+      "avg_weight": 556.0706015831134,
+      "birthdate": "2018-08-19",
+      "id": "9aa0f9ba-c4a7-4f00-9c87-2730c26e09c1",
+      "latest_milk": {
+        "sensor_id": "536e9b3a-bce1-4ec0-849a-1f85e2eecfcc",
+        "timestamp": 1720692000.0,
+        "value": 4.83
+      },
+      "latest_weight": {
+        "sensor_id": "b272b897-893c-4d99-900a-3367346c97db",
+        "timestamp": 1720663200.0,
+        "value": 555.18
+      },
+      "name": "Jaime #5"
+    },
+    {
+      "avg_milk_production": 4.747913110938713,
+      "avg_weight": 546.9600473484849,
+      "birthdate": "2021-06-04",
+      "id": "a27b8cd2-708e-4532-81ef-05a5b2ab249c",
+      "latest_milk": {
+        "sensor_id": "8a0d8970-cba0-49e9-8914-28ff41f4e638",
+        "timestamp": 1720692000.0,
+        "value": 4.53
+      },
+      "latest_weight": {
+        "sensor_id": "55c5dbff-f1b7-443a-8f68-2a2b1bdc0d2d",
+        "timestamp": 1720634400.0,
+        "value": 544.03
+      },
+      "name": "Amber #9"
+    },
+    {
+      "avg_milk_production": 4.750341188021601,
+      "avg_weight": 550.1455077658303,
+      "birthdate": "2019-01-20",
+      "id": "4bde2a83-195e-44ec-b5f1-92d011b7b671",
+      "latest_milk": {
+        "sensor_id": "dc823086-b7d0-45d3-96b7-87defe610327",
+        "timestamp": 1720648800.0,
+        "value": 4.9
+      },
+      "latest_weight": {
+        "sensor_id": "f52207b3-a8e4-4625-8702-2b8db90ef7f8",
+        "timestamp": 1720677600.0,
+        "value": 550.37
+      },
+      "name": "Lori #7"
+    },
+    {
+      "avg_milk_production": 4.747042577675489,
+      "avg_weight": 551.6280308880308,
+      "birthdate": "2021-10-03",
+      "id": "924c7e6b-08f2-4871-954e-ae1f714cbcd4",
+      "latest_milk": {
+        "sensor_id": "30256dfc-5d99-44b8-8df8-4a5f53ec1dd4",
+        "timestamp": 1720692000.0,
+        "value": 4.88
+      },
+      "latest_weight": {
+        "sensor_id": "227e83b6-aee0-4251-bb84-679dfc457cf3",
+        "timestamp": 1720648800.0,
+        "value": 551.34
+      },
+      "name": "Krista #1"
+    },
+    {
+      "avg_milk_production": 4.749787234042553,
+      "avg_weight": 552.4326666666666,
+      "birthdate": "2021-04-26",
+      "id": "706a23c4-e240-4b8b-a894-2b4b631184b9",
+      "latest_milk": {
+        "sensor_id": "3dbd1f8c-5623-4791-a148-d361cd945acf",
+        "timestamp": 1720677600.0,
+        "value": 4.76
+      },
+      "latest_weight": {
+        "sensor_id": "c726a391-90c0-49b0-87fa-9c1c4ccd21d6",
+        "timestamp": 1720692000.0,
+        "value": 553.67
+      },
+      "name": "Yvonne #2"
+    },
+    {
+      "avg_milk_production": 4.747203619909502,
+      "avg_weight": 555.2896391484943,
+      "birthdate": "2018-08-28",
+      "id": "c158759b-dcfe-417d-ae3d-c8e38f567325",
+      "latest_milk": {
+        "sensor_id": "7c6009dd-53e4-41d2-ab9a-9ef90a8f44c5",
+        "timestamp": 1720692000.0,
+        "value": 4.68
+      },
+      "latest_weight": {
+        "sensor_id": "ce187dda-055c-4e71-ad07-cc7f5c5c8ded",
+        "timestamp": 1720620000.0,
+        "value": 558.7
+      },
+      "name": "Becky #1"
+    },
+    {
+      "avg_milk_production": 4.751234342379958,
+      "avg_weight": 546.5995436447167,
+      "birthdate": "2019-03-24",
+      "id": "be4ca0d5-80a0-434d-beee-e05702091b0e",
+      "latest_milk": {
+        "sensor_id": "60586901-84f8-48a8-a6f1-2396045b12f8",
+        "timestamp": 1720634400.0,
+        "value": 4.8
+      },
+      "latest_weight": {
+        "sensor_id": "0bff48eb-3ab9-42c8-8a60-a48e3d05e431",
+        "timestamp": 1720677600.0,
+        "value": 545.57
+      },
+      "name": "Alyssa #5"
+    },
+    {
+      "avg_milk_production": 4.75029368213228,
+      "avg_weight": 555.1715832395951,
+      "birthdate": "2018-12-22",
+      "id": "8d2d3166-a295-40ea-9c48-6dc26e180159",
+      "latest_milk": {
+        "sensor_id": "f4b66dc3-f43b-448d-a4ff-56d012efc755",
+        "timestamp": 1720634400.0,
+        "value": 4.61
+      },
+      "latest_weight": {
+        "sensor_id": "47c85d7a-fdfe-49fd-8f20-3e8e15f0b5a9",
+        "timestamp": 1720677600.0,
+        "value": 564.95
+      },
+      "name": "Ashley #3"
+    },
+    {
+      "avg_milk_production": 4.747774193548387,
+      "avg_weight": 548.6672693726937,
+      "birthdate": "2022-04-03",
+      "id": "90814108-2b03-4744-811b-9596c0bb4853",
+      "latest_milk": {
+        "sensor_id": "449f2b07-4345-4649-afc4-de169dcd4a21",
+        "timestamp": 1720677600.0,
+        "value": 4.54
+      },
+      "latest_weight": {
+        "sensor_id": "3a363357-28ec-45d0-a1d6-cb77391413a1",
+        "timestamp": 1720692000.0,
+        "value": 548.9
+      },
+      "name": "Jean #4"
+    },
+    {
+      "avg_milk_production": 4.755007062146893,
+      "avg_weight": 546.3054507857734,
+      "birthdate": "2021-04-18",
+      "id": "04f886f9-56df-452e-afba-ce3eb8a010c4",
+      "latest_milk": {
+        "sensor_id": "3b555436-273d-4f8e-927c-7323eee78466",
+        "timestamp": 1720648800.0,
+        "value": 4.6
+      },
+      "latest_weight": {
+        "sensor_id": "e6a85fd7-3420-4f54-83cc-771f57bad2d9",
+        "timestamp": 1720692000.0,
+        "value": 542.31
+      },
+      "name": "Patricia #5"
+    },
+    {
+      "avg_milk_production": 4.751971407072987,
+      "avg_weight": 546.7213153232949,
+      "birthdate": "2020-03-24",
+      "id": "98d79b64-7a81-4e48-a311-932694c8058a",
+      "latest_milk": {
+        "sensor_id": "3b555436-273d-4f8e-927c-7323eee78466",
+        "timestamp": 1720677600.0,
+        "value": 4.97
+      },
+      "latest_weight": {
+        "sensor_id": "3aa57241-0f58-4935-b234-35bb677a5f2f",
+        "timestamp": 1720663200.0,
+        "value": 545.14
+      },
+      "name": "Kirsten #1"
+    },
+    {
+      "avg_milk_production": 4.74823482428115,
+      "avg_weight": 550.2566374012292,
+      "birthdate": "2021-05-29",
+      "id": "80aba664-c7e2-4ffe-bbb5-12325596f641",
+      "latest_milk": {
+        "sensor_id": "217dabaf-41ef-4dea-8d3b-8d76acca81c1",
+        "timestamp": 1720663200.0,
+        "value": 4.95
+      },
+      "latest_weight": {
+        "sensor_id": "64183e73-b494-42d1-9f7c-c344003f3205",
+        "timestamp": 1720692000.0,
+        "value": 554.4
+      },
+      "name": "Brooke #2"
+    },
+    {
+      "avg_milk_production": 4.7514121181772655,
+      "avg_weight": 546.8227219282775,
+      "birthdate": "2020-10-21",
+      "id": "cdbab92f-fd6c-4714-b2c1-7c8df2830930",
+      "latest_milk": {
+        "sensor_id": "0005e2b2-287a-4c04-8c87-59d336c2948c",
+        "timestamp": 1720677600.0,
+        "value": 4.65
+      },
+      "latest_weight": {
+        "sensor_id": "b3f77f5b-d069-4e8c-a989-4be3f683e54e",
+        "timestamp": 1720692000.0,
+        "value": 545.49
+      },
+      "name": "Amanda #5"
+    },
+    {
+      "avg_milk_production": 4.7535362802335275,
+      "avg_weight": 551.6037334593573,
+      "birthdate": "2021-06-22",
+      "id": "84e48780-6f4b-45cd-9756-fa0776a8013d",
+      "latest_milk": {
+        "sensor_id": "08cf91ad-f075-466e-be3c-81ad991e8a36",
+        "timestamp": 1720663200.0,
+        "value": 4.91
+      },
+      "latest_weight": {
+        "sensor_id": "7686b437-56b1-418e-b76e-1331f0d43ba7",
+        "timestamp": 1720692000.0,
+        "value": 555.06
+      },
+      "name": "Katherine #3"
+    },
+    {
+      "avg_milk_production": 4.75480065093572,
+      "avg_weight": 547.9508341915551,
+      "birthdate": "2021-07-02",
+      "id": "15f06691-ab7b-4cac-89a9-dc7c6554c9c1",
+      "latest_milk": {
+        "sensor_id": "6f72a08a-aad2-4138-a84e-785ef6feff40",
+        "timestamp": 1720677600.0,
+        "value": 4.8
+      },
+      "latest_weight": {
+        "sensor_id": "3a363357-28ec-45d0-a1d6-cb77391413a1",
+        "timestamp": 1720692000.0,
+        "value": 545.57
+      },
+      "name": "Sarah #1"
+    },
+    {
+      "avg_milk_production": 4.752021164021164,
+      "avg_weight": 551.6920150187734,
+      "birthdate": "2020-01-28",
+      "id": "1b859b14-a75f-478b-bd9f-2d920b67dd0c",
+      "latest_milk": {
+        "sensor_id": "0c34d551-59e6-490f-b5ba-18cc261be5db",
+        "timestamp": 1720677600.0,
+        "value": 4.89
+      },
+      "latest_weight": {
+        "sensor_id": "130b528e-0d05-4627-b455-d2430573d3d7",
+        "timestamp": 1720663200.0,
+        "value": 555.99
+      },
+      "name": "Kristin #6"
+    },
+    {
+      "avg_milk_production": 4.754059539918809,
+      "avg_weight": 552.0219565217392,
+      "birthdate": "2019-11-19",
+      "id": "9099f5b7-22f8-45b7-80e7-00c95eaae485",
+      "latest_milk": {
+        "sensor_id": "9bede673-4395-4bbf-b02d-ca72683005a5",
+        "timestamp": 1720663200.0,
+        "value": 4.98
+      },
+      "latest_weight": {
+        "sensor_id": "f8945419-1cea-4416-bc1c-e398257e58e9",
+        "timestamp": 1720677600.0,
+        "value": 558.31
+      },
+      "name": "Martha #7"
+    },
+    {
+      "avg_milk_production": 4.7480530973451325,
+      "avg_weight": 548.3949253731344,
+      "birthdate": "2022-05-01",
+      "id": "1a0e14cf-587a-440f-8c5e-39fe86f48ec7",
+      "latest_milk": {
+        "sensor_id": "6583fc27-200f-438c-8877-789b8124eba9",
+        "timestamp": 1720663200.0,
+        "value": 4.87
+      },
+      "latest_weight": {
+        "sensor_id": "0e38323e-89c0-4722-99ea-1ad5e40e8dcc",
+        "timestamp": 1720692000.0,
+        "value": 547.39
+      },
+      "name": "Cheyenne #6"
+    },
+    {
+      "avg_milk_production": 4.7498207885304655,
+      "avg_weight": 551.5420652173913,
+      "birthdate": "2020-10-18",
+      "id": "fdca214f-4dc6-4de4-b9dd-99094b619892",
+      "latest_milk": {
+        "sensor_id": "fcac7acb-bd12-4292-be9d-bdf6862e2d41",
+        "timestamp": 1720692000.0,
+        "value": 4.72
+      },
+      "latest_weight": {
+        "sensor_id": "47bc7c8e-39ba-4f09-a65e-8a60612acd6b",
+        "timestamp": 1720677600.0,
+        "value": 555.55
+      },
+      "name": "Katherine #6"
+    },
+    {
+      "avg_milk_production": 4.7493483709273185,
+      "avg_weight": 550.4807382550335,
+      "birthdate": "2020-10-05",
+      "id": "76d85b9b-b63d-450e-af2f-18bb742b5964",
+      "latest_milk": {
+        "sensor_id": "e82116e3-0d88-4f1e-930d-cade628d8334",
+        "timestamp": 1720677600.0,
+        "value": 4.72
+      },
+      "latest_weight": {
+        "sensor_id": "ec7bd45f-7574-4267-be1d-67fb31272ae9",
+        "timestamp": 1720692000.0,
+        "value": 551.54
+      },
+      "name": "Theresa #6"
+    },
+    {
+      "avg_milk_production": 4.752867132867133,
+      "avg_weight": 546.4123300970874,
+      "birthdate": "2020-11-24",
+      "id": "03b8549a-60f8-4669-a97c-dff0c27490b1",
+      "latest_milk": {
+        "sensor_id": "1b35961a-853a-4cca-ba65-72e3a50e571e",
+        "timestamp": 1720663200.0,
+        "value": 4.9
+      },
+      "latest_weight": {
+        "sensor_id": "f8945419-1cea-4416-bc1c-e398257e58e9",
+        "timestamp": 1720677600.0,
+        "value": 540.68
+      },
+      "name": "Lynn #9"
+    },
+    {
+      "avg_milk_production": 4.748775671406003,
+      "avg_weight": 552.9172610837438,
+      "birthdate": "2021-06-18",
+      "id": "e5d23a6a-3913-4aff-8f90-9aec74ba7553",
+      "latest_milk": {
+        "sensor_id": "b4f91754-eec5-420c-ae0e-8d3667cf1fe8",
+        "timestamp": 1720677600.0,
+        "value": 4.62
+      },
+      "latest_weight": {
+        "sensor_id": "40ef10f6-6e08-40a6-bf07-d0c9e05e293a",
+        "timestamp": 1720692000.0,
+        "value": 553.34
+      },
+      "name": "Desiree #5"
+    },
+    {
+      "avg_milk_production": 4.751911451681567,
+      "avg_weight": 553.3096845124284,
+      "birthdate": "2020-06-13",
+      "id": "2be429fe-6e2b-4e72-a93e-2d96d445a5e2",
+      "latest_milk": {
+        "sensor_id": "f6031d0a-b6c6-4ab2-a3ee-36a342d64e14",
+        "timestamp": 1720692000.0,
+        "value": 4.65
+      },
+      "latest_weight": {
+        "sensor_id": "38aaa3c8-d39c-4854-b5da-e3fd3d7bc191",
+        "timestamp": 1720663200.0,
+        "value": 556.88
+      },
+      "name": "Christina #3"
+    },
+    {
+      "avg_milk_production": 4.750986201298701,
+      "avg_weight": 547.5316330114135,
+      "birthdate": "2020-04-23",
+      "id": "6c20e977-42b1-46d8-9e38-b9b0571b82a5",
+      "latest_milk": {
+        "sensor_id": "5a44ddb4-c079-4eed-b56a-4c8fff2d2633",
+        "timestamp": 1720648800.0,
+        "value": 4.96
+      },
+      "latest_weight": {
+        "sensor_id": "de513b9f-b0ed-4f23-baf9-9fadc39b7c66",
+        "timestamp": 1720692000.0,
+        "value": 551.11
+      },
+      "name": "Brandi #8"
+    },
+    {
+      "avg_milk_production": 4.748520900321544,
+      "avg_weight": 557.2897540473225,
+      "birthdate": "2019-04-14",
+      "id": "b67bde0b-872d-4944-82d8-5e48806c2586",
+      "latest_milk": {
+        "sensor_id": "c1f5b43e-c3f7-461e-b00b-d6d07e1c4446",
+        "timestamp": 1720677600.0,
+        "value": 4.65
+      },
+      "latest_weight": {
+        "sensor_id": "b94c1de9-fc44-4e00-87b3-26ba739d5d4c",
+        "timestamp": 1720692000.0,
+        "value": 565.99
+      },
+      "name": "Tara #3"
+    },
+    {
+      "avg_milk_production": 4.751798159105851,
+      "avg_weight": 550.9504404246952,
+      "birthdate": "2019-11-29",
+      "id": "474ccf64-c5bb-45a7-a5e5-11ccabaef643",
+      "latest_milk": {
+        "sensor_id": "c34e2bcf-671b-4402-86f7-41f6bf4ce3c3",
+        "timestamp": 1720677600.0,
+        "value": 4.89
+      },
+      "latest_weight": {
+        "sensor_id": "2885b72a-9240-489b-8800-d86276d5db02",
+        "timestamp": 1720634400.0,
+        "value": 555.63
+      },
+      "name": "Cassandra #4"
+    },
+    {
+      "avg_milk_production": 4.753392857142858,
+      "avg_weight": 534.3432225913621,
+      "birthdate": "2022-03-25",
+      "id": "33eb52d5-db1e-4a68-a911-f78574f12254",
+      "latest_milk": {
+        "sensor_id": "5b2fc779-7ef3-4f7c-83d9-e8ce555e86f5",
+        "timestamp": 1720677600.0,
+        "value": 4.89
+      },
+      "latest_weight": {
+        "sensor_id": "b2551150-4801-4102-b176-d7dc06028465",
+        "timestamp": 1720634400.0,
+        "value": 452.36
+      },
+      "name": "Joanne #6"
+    },
+    {
+      "avg_milk_production": 4.747678153228504,
+      "avg_weight": 554.8015680245965,
+      "birthdate": "2019-11-30",
+      "id": "9d029bf7-8984-4077-b2fd-e43a4e7cbd09",
+      "latest_milk": {
+        "sensor_id": "3b555436-273d-4f8e-927c-7323eee78466",
+        "timestamp": 1720663200.0,
+        "value": 4.61
+      },
+      "latest_weight": {
+        "sensor_id": "dc80be40-2971-4237-a44f-70034a227e79",
+        "timestamp": 1720677600.0,
+        "value": 557.9
+      },
+      "name": "Donna #4"
+    },
+    {
+      "avg_milk_production": 4.7492786069651745,
+      "avg_weight": 547.9528708133971,
+      "birthdate": "2021-11-10",
+      "id": "9063220a-7a93-404a-873b-fd3d61ed205c",
+      "latest_milk": {
+        "sensor_id": "5b6ddcdf-e8d8-402b-852e-2d75ef23f025",
+        "timestamp": 1720677600.0,
+        "value": 5.0
+      },
+      "latest_weight": {
+        "sensor_id": "b2551150-4801-4102-b176-d7dc06028465",
+        "timestamp": 1720576800.0,
+        "value": 548.64
+      },
+      "name": "Wanda #6"
+    },
+    {
+      "avg_milk_production": 4.714893617021277,
+      "avg_weight": 549.5388461538462,
+      "birthdate": "2022-06-25",
+      "id": "69ceb9e9-630d-4e23-b5f5-81c024e84168",
+      "latest_milk": {
+        "sensor_id": "03b9a22b-15f3-4d89-b9a4-8137a39077e8",
+        "timestamp": 1720663200.0,
+        "value": 4.71
+      },
+      "latest_weight": {
+        "sensor_id": "bf3e739e-87e6-4198-85cf-2b4e2277b34c",
+        "timestamp": 1720692000.0,
+        "value": 548.49
+      },
+      "name": "Deborah #8"
+    },
+    {
+      "avg_milk_production": 4.744587755102041,
+      "avg_weight": 552.694349112426,
+      "birthdate": "2021-06-25",
+      "id": "4e48314b-bbea-4cf5-9bfd-3d7a3e6ba564",
+      "latest_milk": {
+        "sensor_id": "03b9a22b-15f3-4d89-b9a4-8137a39077e8",
+        "timestamp": 1720648800.0,
+        "value": 4.94
+      },
+      "latest_weight": {
+        "sensor_id": "b2551150-4801-4102-b176-d7dc06028465",
+        "timestamp": 1720692000.0,
+        "value": 554.23
+      },
+      "name": "Kelly #2"
+    },
+    {
+      "avg_milk_production": 4.743312548713952,
+      "avg_weight": 549.0825593667546,
+      "birthdate": "2021-05-25",
+      "id": "7b85bc65-556e-4dbc-82b5-80b148c4044d",
+      "latest_milk": {
+        "sensor_id": "d521b0e2-5031-4309-9cf9-e753eb55e020",
+        "timestamp": 1720677600.0,
+        "value": 4.75
+      },
+      "latest_weight": {
+        "sensor_id": "006d738e-d053-4a3d-9c28-7cbd27e60633",
+        "timestamp": 1720663200.0,
+        "value": 550.56
+      },
+      "name": "Tammie #5"
+    },
+    {
+      "avg_milk_production": 4.7502966101694915,
+      "avg_weight": 548.6632752179328,
+      "birthdate": "2021-09-17",
+      "id": "844fc847-a0aa-4473-a42d-d4c13cd1eba9",
+      "latest_milk": {
+        "sensor_id": "f4b66dc3-f43b-448d-a4ff-56d012efc755",
+        "timestamp": 1720692000.0,
+        "value": 4.67
+      },
+      "latest_weight": {
+        "sensor_id": "9a4ab2c6-79f4-42f6-9eac-f1bdfaee3dcd",
+        "timestamp": 1720648800.0,
+        "value": 546.88
+      },
+      "name": "Nicole #4"
+    },
+    {
+      "avg_milk_production": 4.7507003012048195,
+      "avg_weight": 552.5874211000902,
+      "birthdate": "2020-03-29",
+      "id": "70ba6fcc-6fb2-4af9-a69c-7b6d546e2256",
+      "latest_milk": {
+        "sensor_id": "0005e2b2-287a-4c04-8c87-59d336c2948c",
+        "timestamp": 1720692000.0,
+        "value": 4.95
+      },
+      "latest_weight": {
+        "sensor_id": "64183e73-b494-42d1-9f7c-c344003f3205",
+        "timestamp": 1720663200.0,
+        "value": 552.53
+      },
+      "name": "Christine #8"
+    },
+    {
+      "avg_milk_production": 4.751979764834564,
+      "avg_weight": 548.6038527851459,
+      "birthdate": "2019-05-28",
+      "id": "fed3a6af-8729-4ac6-920a-f5487cb00dd9",
+      "latest_milk": {
+        "sensor_id": "40bb4cc8-0990-4fb6-b2ab-1a51aa9ec7bc",
+        "timestamp": 1720692000.0,
+        "value": 4.7
+      },
+      "latest_weight": {
+        "sensor_id": "5b533d64-3fcb-40fa-a2e2-694b4db27469",
+        "timestamp": 1720663200.0,
+        "value": 546.41
+      },
+      "name": "Debra #2"
+    },
+    {
+      "avg_milk_production": 4.748754440497335,
+      "avg_weight": 549.7739837823699,
+      "birthdate": "2018-08-20",
+      "id": "b154d214-6d5d-44af-94f2-fb8c41de35cb",
+      "latest_milk": {
+        "sensor_id": "3967ae40-8b2b-4044-b58c-d5d4eece2ce1",
+        "timestamp": 1720692000.0,
+        "value": 4.51
+      },
+      "latest_weight": {
+        "sensor_id": "a4db8ffb-c712-4f20-876b-cc72e61b01cf",
+        "timestamp": 1720677600.0,
+        "value": 545.24
+      },
+      "name": "Sheila #6"
+    },
+    {
+      "avg_milk_production": 4.7501200282419385,
+      "avg_weight": 544.3127019575406,
+      "birthdate": "2018-11-06",
+      "id": "6dd92947-643d-4121-8af3-65bb659f5200",
+      "latest_milk": {
+        "sensor_id": "c34e2bcf-671b-4402-86f7-41f6bf4ce3c3",
+        "timestamp": 1720677600.0,
+        "value": 4.63
+      },
+      "latest_weight": {
+        "sensor_id": "19fe691c-06e9-4d2a-8fe6-f09e1a7e405d",
+        "timestamp": 1720605600.0,
+        "value": 543.19
+      },
+      "name": "Jennifer #1"
+    },
+    {
+      "avg_milk_production": 4.7511246300559025,
+      "avg_weight": 552.1298823529412,
+      "birthdate": "2019-11-29",
+      "id": "562c2685-8485-4c95-a1d5-c51a0e593dc0",
+      "latest_milk": {
+        "sensor_id": "bfbbb8d0-a908-449f-83e0-d3d9e6835087",
+        "timestamp": 1720677600.0,
+        "value": 4.57
+      },
+      "latest_weight": {
+        "sensor_id": "0bff48eb-3ab9-42c8-8a60-a48e3d05e431",
+        "timestamp": 1720620000.0,
+        "value": 548.72
+      },
+      "name": "Valerie #1"
+    },
+    {
+      "avg_milk_production": 4.750846223839854,
+      "avg_weight": 545.4918404083826,
+      "birthdate": "2018-09-28",
+      "id": "47e64bdf-1ae8-4e44-98b5-3250dd2c787c",
+      "latest_milk": {
+        "sensor_id": "fcac7acb-bd12-4292-be9d-bdf6862e2d41",
+        "timestamp": 1720677600.0,
+        "value": 4.54
+      },
+      "latest_weight": {
+        "sensor_id": "1d0ef964-28de-488e-9b58-607c0db8e9fb",
+        "timestamp": 1720692000.0,
+        "value": 536.13
+      },
+      "name": "Tina #1"
+    },
+    {
+      "avg_milk_production": 4.750046262478695,
+      "avg_weight": 553.0584383637369,
+      "birthdate": "2018-11-30",
+      "id": "48c17eb9-ae9d-4965-a916-c4bfe1c3a3ef",
+      "latest_milk": {
+        "sensor_id": "217dabaf-41ef-4dea-8d3b-8d76acca81c1",
+        "timestamp": 1720677600.0,
+        "value": 4.78
+      },
+      "latest_weight": {
+        "sensor_id": "4f2eafbf-93f1-4678-aaa2-1503cdf86036",
+        "timestamp": 1720663200.0,
+        "value": 555.08
+      },
+      "name": "Nichole #2"
+    },
+    {
+      "avg_milk_production": 4.749944604475958,
+      "avg_weight": 544.685570083682,
+      "birthdate": "2018-08-17",
+      "id": "7255f6ed-8b6e-4fa5-b6bf-676663ba7e48",
+      "latest_milk": {
+        "sensor_id": "08cf91ad-f075-466e-be3c-81ad991e8a36",
+        "timestamp": 1720663200.0,
+        "value": 4.92
+      },
+      "latest_weight": {
+        "sensor_id": "0e38323e-89c0-4722-99ea-1ad5e40e8dcc",
+        "timestamp": 1720692000.0,
+        "value": 542.41
+      },
+      "name": "Claudia #5"
+    },
+    {
+      "avg_milk_production": 4.7519528993556985,
+      "avg_weight": 542.0591611422743,
+      "birthdate": "2018-08-02",
+      "id": "68923fdd-d829-4985-8851-546613c6e078",
+      "latest_milk": {
+        "sensor_id": "568e6e6d-0b58-4933-9796-a8f05dc58412",
+        "timestamp": 1720692000.0,
+        "value": 4.8
+      },
+      "latest_weight": {
+        "sensor_id": "006d738e-d053-4a3d-9c28-7cbd27e60633",
+        "timestamp": 1720620000.0,
+        "value": 534.58
+      },
+      "name": "Natalie #2"
+    },
+    {
+      "avg_milk_production": 4.750697050938338,
+      "avg_weight": 548.1681003039513,
+      "birthdate": "2021-11-13",
+      "id": "1eea703e-9d56-4983-986f-69e4b61c9ed5",
+      "latest_milk": {
+        "sensor_id": "598e5076-9673-4c23-8381-9fb0a94286b0",
+        "timestamp": 1720677600.0,
+        "value": 4.69
+      },
+      "latest_weight": {
+        "sensor_id": "006d738e-d053-4a3d-9c28-7cbd27e60633",
+        "timestamp": 1720648800.0,
+        "value": 547.35
+      },
+      "name": "Maria #3"
+    },
+    {
+      "avg_milk_production": 4.7604249667994685,
+      "avg_weight": 552.3667774343122,
+      "birthdate": "2021-03-21",
+      "id": "168590c2-d95f-4e72-8749-cb08a1147065",
+      "latest_milk": {
+        "sensor_id": "53e56e77-dbfa-4081-995b-4b0b25538aad",
+        "timestamp": 1720620000.0,
+        "value": 4.72
+      },
+      "latest_weight": {
+        "sensor_id": "ee4e4415-4ab9-4a47-9b9d-8a6592557171",
+        "timestamp": 1720677600.0,
+        "value": 553.92
+      },
+      "name": "Kimberly #2"
+    },
+    {
+      "avg_milk_production": 4.754067316766279,
+      "avg_weight": 551.1344117647059,
+      "birthdate": "2019-09-26",
+      "id": "84be669d-571c-444d-bd5f-709fce6ac9ba",
+      "latest_milk": {
+        "sensor_id": "4e9fa84c-ce7e-4e74-9eff-2b2f52493e13",
+        "timestamp": 1720605600.0,
+        "value": 4.88
+      },
+      "latest_weight": {
+        "sensor_id": "c84ab607-5b5e-4b8e-bfc9-f8abf07adaef",
+        "timestamp": 1720677600.0,
+        "value": 555.58
+      },
+      "name": "Karen #1"
+    },
+    {
+      "avg_milk_production": 4.759815668202766,
+      "avg_weight": 549.7931578947369,
+      "birthdate": "2022-05-04",
+      "id": "d3b1eb0c-3260-4f46-a6e2-960be64c89bd",
+      "latest_milk": {
+        "sensor_id": "f4d92927-4f31-49e5-944a-4907dd8671b9",
+        "timestamp": 1720663200.0,
+        "value": 4.68
+      },
+      "latest_weight": {
+        "sensor_id": "f6693f85-3f2b-4b23-9500-6955159a749a",
+        "timestamp": 1720692000.0,
+        "value": 549.82
+      },
+      "name": "Andrea #6"
+    },
+    {
+      "avg_milk_production": 4.751147887323944,
+      "avg_weight": 547.2843556085919,
+      "birthdate": "2020-01-13",
+      "id": "2d4194fa-9319-41d7-aee2-d88a0f584722",
+      "latest_milk": {
+        "sensor_id": "aafbbd0e-023c-462d-ba24-3307a6fb0fc6",
+        "timestamp": 1720677600.0,
+        "value": 4.54
+      },
+      "latest_weight": {
+        "sensor_id": "b2551150-4801-4102-b176-d7dc06028465",
+        "timestamp": 1720663200.0,
+        "value": 543.78
+      },
+      "name": "Jennifer #9"
+    },
+    {
+      "avg_milk_production": 4.748055555555555,
+      "avg_weight": 554.7629765886288,
+      "birthdate": "2019-06-30",
+      "id": "9e3d2393-2f17-43b7-b7c1-a2ffa7ea6c2f",
+      "latest_milk": {
+        "sensor_id": "ee1aee69-7420-49d0-8500-305723a9cb46",
+        "timestamp": 1720663200.0,
+        "value": 4.51
+      },
+      "latest_weight": {
+        "sensor_id": "8670604c-c6bd-4af1-a801-d3801a2d9b58",
+        "timestamp": 1720692000.0,
+        "value": 560.96
+      },
+      "name": "Teresa #2"
+    },
+    {
+      "avg_milk_production": 4.749127546501329,
+      "avg_weight": 550.3927057557827,
+      "birthdate": "2020-08-08",
+      "id": "0abaa73d-0755-478a-9a56-b97a5cbdd64f",
+      "latest_milk": {
+        "sensor_id": "a005ec1a-0f94-4e4f-aae1-a9385baf5545",
+        "timestamp": 1720692000.0,
+        "value": 4.82
+      },
+      "latest_weight": {
+        "sensor_id": "e96c8b8d-a608-41e2-97bf-cac6f0d34706",
+        "timestamp": 1720605600.0,
+        "value": 545.65
+      },
+      "name": "Ashlee #2"
+    },
+    {
+      "avg_milk_production": 4.743924284395199,
+      "avg_weight": 549.487,
+      "birthdate": "2021-08-06",
+      "id": "3593205a-bead-40d6-aad9-7ed1f2da4745",
+      "latest_milk": {
+        "sensor_id": "413b4489-7033-4924-8a1e-8c5a70e38800",
+        "timestamp": 1720663200.0,
+        "value": 4.63
+      },
+      "latest_weight": {
+        "sensor_id": "f202078a-8a21-4481-bbfe-dfce9a49eb71",
+        "timestamp": 1720692000.0,
+        "value": 548.26
+      },
+      "name": "Jacqueline #4"
+    },
+    {
+      "avg_milk_production": 4.751642028655902,
+      "avg_weight": 546.169655987395,
+      "birthdate": "2018-09-09",
+      "id": "85334bbd-9b60-406e-b047-3520a2d4fbe5",
+      "latest_milk": {
+        "sensor_id": "8ec83bc5-4cac-4d03-abe2-131351b0df0b",
+        "timestamp": 1720648800.0,
+        "value": 4.98
+      },
+      "latest_weight": {
+        "sensor_id": "59780af5-3316-4e0d-bb31-adb2574e128a",
+        "timestamp": 1720692000.0,
+        "value": 543.58
+      },
+      "name": "Karen #3"
+    },
+    {
+      "avg_milk_production": 4.744362657091562,
+      "avg_weight": 550.4003696098562,
+      "birthdate": "2022-01-13",
+      "id": "991670bb-d888-4a95-94b8-41b290122833",
+      "latest_milk": {
+        "sensor_id": "11cbd55f-9c6e-420a-9e61-721036264dee",
+        "timestamp": 1720677600.0,
+        "value": 4.9
+      },
+      "latest_weight": {
+        "sensor_id": "f6693f85-3f2b-4b23-9500-6955159a749a",
+        "timestamp": 1720663200.0,
+        "value": 551.69
+      },
+      "name": "Deborah #1"
+    },
+    {
+      "avg_milk_production": 4.751687327823691,
+      "avg_weight": 548.6373226351351,
+      "birthdate": "2018-10-28",
+      "id": "c36323f9-5ca6-4325-a8d5-6cac0ddb4d63",
+      "latest_milk": {
+        "sensor_id": "a005ec1a-0f94-4e4f-aae1-a9385baf5545",
+        "timestamp": 1720677600.0,
+        "value": 4.63
+      },
+      "latest_weight": {
+        "sensor_id": "7686b437-56b1-418e-b76e-1331f0d43ba7",
+        "timestamp": 1720648800.0,
+        "value": 543.14
+      },
+      "name": "Paige #5"
+    },
+    {
+      "avg_milk_production": 4.746131805157593,
+      "avg_weight": 548.9757464212679,
+      "birthdate": "2021-01-10",
+      "id": "33b66bab-78b3-45e0-a86b-32e775d4dc2b",
+      "latest_milk": {
+        "sensor_id": "dac9bac6-5eff-469c-8f69-9a61890119bd",
+        "timestamp": 1720677600.0,
+        "value": 4.55
+      },
+      "latest_weight": {
+        "sensor_id": "3aa57241-0f58-4935-b234-35bb677a5f2f",
+        "timestamp": 1720648800.0,
+        "value": 548.72
+      },
+      "name": "Alexandria #4"
+    },
+    {
+      "avg_milk_production": 4.739692307692308,
+      "avg_weight": 548.0928260869565,
+      "birthdate": "2022-05-09",
+      "id": "17d70345-5a06-4f01-aff5-3f7f95d7bc57",
+      "latest_milk": {
+        "sensor_id": "61979eb0-a0d2-40a7-8ef9-cf37ef784783",
+        "timestamp": 1720677600.0,
+        "value": 4.85
+      },
+      "latest_weight": {
+        "sensor_id": "488f8231-0a28-4b6b-a2f7-3b091845e8bf",
+        "timestamp": 1720692000.0,
+        "value": 546.08
+      },
+      "name": "Katherine #7"
+    },
+    {
+      "avg_milk_production": 4.742730295976056,
+      "avg_weight": 553.4605945121951,
+      "birthdate": "2019-11-23",
+      "id": "5693cf1f-865a-41a9-9f7d-789d27e32910",
+      "latest_milk": {
+        "sensor_id": "4084f905-08ea-4b1c-b29f-6e6f595e96e1",
+        "timestamp": 1720648800.0,
+        "value": 4.67
+      },
+      "latest_weight": {
+        "sensor_id": "93fed92b-fe4b-4187-b59c-172e903ec834",
+        "timestamp": 1720677600.0,
+        "value": 558.35
+      },
+      "name": "Alexandra #8"
+    },
+    {
+      "avg_milk_production": 4.750816929133858,
+      "avg_weight": 548.2978111111112,
+      "birthdate": "2021-08-19",
+      "id": "8f74a252-78ce-49d4-9432-ce556e226d29",
+      "latest_milk": {
+        "sensor_id": "0c0bc9b0-6572-4ee8-bfa0-908ba19b5c44",
+        "timestamp": 1720663200.0,
+        "value": 4.87
+      },
+      "latest_weight": {
+        "sensor_id": "ce187dda-055c-4e71-ad07-cc7f5c5c8ded",
+        "timestamp": 1720692000.0,
+        "value": 549.56
+      },
+      "name": "Cynthia #3"
+    },
+    {
+      "avg_milk_production": 4.746855452240068,
+      "avg_weight": 550.9152132701422,
+      "birthdate": "2021-06-23",
+      "id": "586c87f6-4a4e-4996-b560-fc5490a4ad4d",
+      "latest_milk": {
+        "sensor_id": "6d0a00f7-57cf-4142-8d4a-c69475b85dcf",
+        "timestamp": 1720663200.0,
+        "value": 4.77
+      },
+      "latest_weight": {
+        "sensor_id": "1d0ef964-28de-488e-9b58-607c0db8e9fb",
+        "timestamp": 1720692000.0,
+        "value": 549.5
+      },
+      "name": "Debra #6"
+    },
+    {
+      "avg_milk_production": 4.7492431077694235,
+      "avg_weight": 550.0560432952495,
+      "birthdate": "2020-10-25",
+      "id": "066d0252-6201-4bb1-adea-a50a03e419e3",
+      "latest_milk": {
+        "sensor_id": "85031067-bdbb-4e6b-8f0d-5ca6ca684033",
+        "timestamp": 1720634400.0,
+        "value": 4.77
+      },
+      "latest_weight": {
+        "sensor_id": "69b534c6-3549-4dd4-aa25-6652d994ad6c",
+        "timestamp": 1720692000.0,
+        "value": 552.97
+      },
+      "name": "Leah #3"
+    },
+    {
+      "avg_milk_production": 4.744269503546099,
+      "avg_weight": 550.7888694267516,
+      "birthdate": "2021-11-27",
+      "id": "8051343c-56d2-46c5-a24c-2e6d0858f2aa",
+      "latest_milk": {
+        "sensor_id": "1f16517d-7df1-4846-ae42-49bd8ccb8da9",
+        "timestamp": 1720677600.0,
+        "value": 4.86
+      },
+      "latest_weight": {
+        "sensor_id": "b272b897-893c-4d99-900a-3367346c97db",
+        "timestamp": 1720663200.0,
+        "value": 548.58
+      },
+      "name": "Dawn #1"
+    },
+    {
+      "avg_milk_production": 4.745951341235184,
+      "avg_weight": 548.0280692307692,
+      "birthdate": "2021-03-02",
+      "id": "4b54f862-7dd7-4569-950c-e071fd13c575",
+      "latest_milk": {
+        "sensor_id": "0052d915-0968-4966-b5c5-09db6253ebd3",
+        "timestamp": 1720663200.0,
+        "value": 4.59
+      },
+      "latest_weight": {
+        "sensor_id": "19fe691c-06e9-4d2a-8fe6-f09e1a7e405d",
+        "timestamp": 1720677600.0,
+        "value": 471.19
+      },
+      "name": "Anne #4"
+    },
+    {
+      "avg_milk_production": 4.750252100840336,
+      "avg_weight": 549.7318260869565,
+      "birthdate": "2022-03-14",
+      "id": "98ca68bf-816c-4b90-b7e2-678e9069fdf8",
+      "latest_milk": {
+        "sensor_id": "d521b0e2-5031-4309-9cf9-e753eb55e020",
+        "timestamp": 1720663200.0,
+        "value": 4.6
+      },
+      "latest_weight": {
+        "sensor_id": "3c02b07a-2b32-4106-8a1f-4403e0516d2a",
+        "timestamp": 1720677600.0,
+        "value": 551.17
+      },
+      "name": "Debra #1"
+    },
+    {
+      "avg_milk_production": 4.747400722021661,
+      "avg_weight": 548.9597139989964,
+      "birthdate": "2020-07-25",
+      "id": "c3aa0df9-276c-4e2f-b60d-ac617d0ef84c",
+      "latest_milk": {
+        "sensor_id": "bfbbb8d0-a908-449f-83e0-d3d9e6835087",
+        "timestamp": 1720692000.0,
+        "value": 4.86
+      },
+      "latest_weight": {
+        "sensor_id": "77a60975-bbd5-481f-b509-98480b70c9fd",
+        "timestamp": 1720634400.0,
+        "value": 547.68
+      },
+      "name": "Rhonda #8"
+    },
+    {
+      "avg_milk_production": 4.746876790830945,
+      "avg_weight": 549.2444437086093,
+      "birthdate": "2021-01-03",
+      "id": "50b99487-9827-440c-a12e-d1f9c1d075e3",
+      "latest_milk": {
+        "sensor_id": "3967ae40-8b2b-4044-b58c-d5d4eece2ce1",
+        "timestamp": 1720648800.0,
+        "value": 4.55
+      },
+      "latest_weight": {
+        "sensor_id": "8670604c-c6bd-4af1-a801-d3801a2d9b58",
+        "timestamp": 1720677600.0,
+        "value": 544.12
+      },
+      "name": "Brandi #1"
+    },
+    {
+      "avg_milk_production": 4.744421272158498,
+      "avg_weight": 551.4452816091954,
+      "birthdate": "2020-10-24",
+      "id": "7389aa61-3add-4f92-b38a-6b23cf389dcf",
+      "latest_milk": {
+        "sensor_id": "bfbbb8d0-a908-449f-83e0-d3d9e6835087",
+        "timestamp": 1720620000.0,
+        "value": 4.61
+      },
+      "latest_weight": {
+        "sensor_id": "00ddcc98-3c70-474c-b80a-e4fd3a36f3db",
+        "timestamp": 1720692000.0,
+        "value": 550.84
+      },
+      "name": "Brittany #7"
+    },
+    {
+      "avg_milk_production": 4.74713387806411,
+      "avg_weight": 550.9903185703185,
+      "birthdate": "2021-03-07",
+      "id": "59beca2a-b84a-49b6-9ba7-60944e552cc7",
+      "latest_milk": {
+        "sensor_id": "b6d86d4c-73f4-430f-8385-8fb4c7dde380",
+        "timestamp": 1720648800.0,
+        "value": 4.6
+      },
+      "latest_weight": {
+        "sensor_id": "14bd6b76-e8b9-430a-a1e9-9a7c8bce2d02",
+        "timestamp": 1720677600.0,
+        "value": 548.33
+      },
+      "name": "Brittany #6"
+    },
+    {
+      "avg_milk_production": 4.741375,
+      "avg_weight": 550.078051948052,
+      "birthdate": "2022-05-19",
+      "id": "c59bf2d4-433a-4de8-9927-b05cb6633cad",
+      "latest_milk": {
+        "sensor_id": "77ec18d1-1bbf-472c-85aa-54405758afbd",
+        "timestamp": 1720663200.0,
+        "value": 4.52
+      },
+      "latest_weight": {
+        "sensor_id": "98d358dc-711a-4c4e-9862-4e0eb8bfc8db",
+        "timestamp": 1720692000.0,
+        "value": 549.6
+      },
+      "name": "Marilyn #6"
+    },
+    {
+      "avg_milk_production": 4.749593541202673,
+      "avg_weight": 550.4338024531955,
+      "birthdate": "2020-12-18",
+      "id": "32a5db76-4c96-462a-b64c-7d89c7685183",
+      "latest_milk": {
+        "sensor_id": "8565a6ea-504e-4c43-90be-a1c39e7f8e19",
+        "timestamp": 1720677600.0,
+        "value": 4.64
+      },
+      "latest_weight": {
+        "sensor_id": "8670604c-c6bd-4af1-a801-d3801a2d9b58",
+        "timestamp": 1720634400.0,
+        "value": 553.62
+      },
+      "name": "Laura #1"
+    },
+    {
+      "avg_milk_production": 4.749802110817942,
+      "avg_weight": 552.4973762811128,
+      "birthdate": "2019-02-25",
+      "id": "14af9acf-968f-46c2-8e2e-0a6b361ba4c5",
+      "latest_milk": {
+        "sensor_id": "6583fc27-200f-438c-8877-789b8124eba9",
+        "timestamp": 1720677600.0,
+        "value": 4.56
+      },
+      "latest_weight": {
+        "sensor_id": "b3f77f5b-d069-4e8c-a989-4be3f683e54e",
+        "timestamp": 1720634400.0,
+        "value": 552.99
+      },
+      "name": "Sherri #4"
+    },
+    {
+      "avg_milk_production": 4.747370361834524,
+      "avg_weight": 548.4422815265486,
+      "birthdate": "2018-10-24",
+      "id": "5b0155f2-8d9f-469d-be25-9ba4abfb3974",
+      "latest_milk": {
+        "sensor_id": "aa03a811-1a94-4b0a-87be-8573feb36c9d",
+        "timestamp": 1720634400.0,
+        "value": 4.72
+      },
+      "latest_weight": {
+        "sensor_id": "b2551150-4801-4102-b176-d7dc06028465",
+        "timestamp": 1720692000.0,
+        "value": 551.4
+      },
+      "name": "Stephanie #5"
+    },
+    {
+      "avg_milk_production": 4.757179487179487,
+      "avg_weight": 545.7316491010539,
+      "birthdate": "2020-11-16",
+      "id": "55e8420b-3a15-4b95-bb48-587cf40d8bc5",
+      "latest_milk": {
+        "sensor_id": "b2eb2d27-a4b0-4ef8-8899-38d965d3d4b8",
+        "timestamp": 1720648800.0,
+        "value": 4.52
+      },
+      "latest_weight": {
+        "sensor_id": "bf3e739e-87e6-4198-85cf-2b4e2277b34c",
+        "timestamp": 1720677600.0,
+        "value": 543.01
+      },
+      "name": "Lauren #1"
+    },
+    {
+      "avg_milk_production": 4.748246147167354,
+      "avg_weight": 549.7155867939128,
+      "birthdate": "2018-07-25",
+      "id": "dfce91b2-2f21-4d68-b613-3c0dc36160de",
+      "latest_milk": {
+        "sensor_id": "25513cb1-8113-42a9-8f6d-25810de2ba68",
+        "timestamp": 1720692000.0,
+        "value": 4.79
+      },
+      "latest_weight": {
+        "sensor_id": "ce187dda-055c-4e71-ad07-cc7f5c5c8ded",
+        "timestamp": 1720677600.0,
+        "value": 545.85
+      },
+      "name": "Jacqueline #2"
+    },
+    {
+      "avg_milk_production": 4.747243379571248,
+      "avg_weight": 548.0056447831184,
+      "birthdate": "2019-01-28",
+      "id": "0f3f64e9-44e6-4ac7-871b-9d50d251b556",
+      "latest_milk": {
+        "sensor_id": "a5cab849-5b38-47e4-89fa-79048b5a13a5",
+        "timestamp": 1720677600.0,
+        "value": 4.93
+      },
+      "latest_weight": {
+        "sensor_id": "1aa5c80b-68bf-4ae8-a362-b0935b410b89",
+        "timestamp": 1720663200.0,
+        "value": 541.48
+      },
+      "name": "Sharon #2"
+    },
+    {
+      "avg_milk_production": 4.747262839879154,
+      "avg_weight": 551.9308908045978,
+      "birthdate": "2021-02-08",
+      "id": "adadab8b-c876-4733-b1ea-bdf67db55051",
+      "latest_milk": {
+        "sensor_id": "e2c35e7e-c850-42bf-8e53-b009905f7ea2",
+        "timestamp": 1720663200.0,
+        "value": 4.65
+      },
+      "latest_weight": {
+        "sensor_id": "7aa42298-c77a-44f6-b79b-3c0530fe8c88",
+        "timestamp": 1720677600.0,
+        "value": 551.04
+      },
+      "name": "Dominique #2"
+    },
+    {
+      "avg_milk_production": 4.753900160170849,
+      "avg_weight": 554.5987985436893,
+      "birthdate": "2019-03-26",
+      "id": "7d68d8d2-6b6c-4dbf-86b5-c9e123ecba97",
+      "latest_milk": {
+        "sensor_id": "98ebddd8-ef6b-4fd6-89f1-be1753b87f2c",
+        "timestamp": 1720648800.0,
+        "value": 4.98
+      },
+      "latest_weight": {
+        "sensor_id": "98d358dc-711a-4c4e-9862-4e0eb8bfc8db",
+        "timestamp": 1720677600.0,
+        "value": 559.89
+      },
+      "name": "Alexandria #1"
+    }
+  ],
+  "date": "2024-10-01",
+  "potentially_ill_cows": [
+    {
+      "id": "fa5625d5-d657-40a7-9de9-a52af87aef1f",
+      "name": "Stacy #9",
+      "reason": "Significant weight loss: -14.28% change"
+    },
+    {
+      "id": "33eb52d5-db1e-4a68-a911-f78574f12254",
+      "name": "Joanne #6",
+      "reason": "Significant weight loss: -15.34% change"
+    },
+    {
+      "id": "4b54f862-7dd7-4569-950c-e071fd13c575",
+      "name": "Anne #4",
+      "reason": "Significant weight loss: -14.02% change"
+    }
+  ]
+}
