@@ -172,6 +172,19 @@ class MeasurementCreate(BaseModel):
     @field_validator('value')
     @classmethod
     def validate_value(cls, v):
+        """
+        Validate the measurement value.
+        
+        Assumptions:
+        - Measurements cannot be negative (e.g., negative weight or milk production doesn't make sense).
+        - Null values are not allowed as they indicate a failed measurement.
+        
+        Design Decision:
+        - We reject any negative or null values at the API level to ensure data integrity.
+        - This might mean losing some data if sensors malfunction, but it prevents incorrect data from entering our system.
+        """
+        if v is None:
+            raise ValueError('Value cannot be null')
         if v < 0:
             raise ValueError('Value must be non-negative')
         return v
@@ -248,13 +261,17 @@ def get_cow_details(id: str):
 
 # Report Generation
 def generate_report(date: datetime) -> Dict[str, Any]:
-    """Generate a report for all cows for a given date.
-
-    Args:
-        date (datetime): The date for which to generate the report
-
-    Returns:
-        Dict[str, Any]: Dictionary containing the report data
+    """
+    Generate a report for all cows for a given date.
+    
+    Assumptions:
+    - The report should include data from the last 30 days up to the specified date.
+    - If a cow has no data in the last 30 days, it will still be included in the report with null values.
+    
+    Design Decisions:
+    - We calculate averages based on all available data within the 30-day window.
+    - We include the latest valid measurement for each metric, even if it's older than 30 days.
+    - This approach allows us to spot cows that haven't had recent measurements, which might itself be a concern.
     """
     end_date = date
     start_date = end_date - timedelta(days=30)
@@ -314,17 +331,21 @@ def generate_report(date: datetime) -> Dict[str, Any]:
 
 # Add a function to detect potentially ill cows
 def detect_ill_cows(report: Dict[str, Any]) -> List[Dict[str, Any]]:
-    """Detect potentially ill cows based on weight loss and milk production drop.
-
-    Args:
-        report (Dict[str, Any]): The generated report containing cow data
-
-    Returns:
-        List[Dict[str, Any]]: List of potentially ill cows with reasons
+    """
+    Detect potentially ill cows based on significant changes in weight or milk production.
+    
+    Assumptions:
+    - A weight loss of more than 3% compared to the 30-day average is concerning.
+    - A drop in milk production of more than 15% compared to the 30-day average is concerning.
+    
+    Design Decisions:
+    - We use percentage changes rather than absolute values to account for variations among different cows.
+    - These thresholds are initial estimates and should be adjusted based on veterinary input and observed patterns.
+    - We consider both weight and milk production independently, as a cow might show signs in one metric but not the other.
     """
     potentially_ill_cows = []
     for cow in report["cows"]:
-        # Check for significant weight loss (e.g., more than 3% difference between latest and average weight)
+        # Check for significant weight loss
         if cow["latest_weight"] and cow["avg_weight"] and cow["latest_weight"]["value"] > 0:
             current_weight = cow["latest_weight"]["value"]
             weight_change_percent = (current_weight - cow["avg_weight"]) / cow["avg_weight"] * 100
@@ -335,7 +356,7 @@ def detect_ill_cows(report: Dict[str, Any]) -> List[Dict[str, Any]]:
                     "reason": f"Significant weight loss: {weight_change_percent:.2f}% change"
                 })
         
-        # Check for sudden drops in milk production (e.g., more than 15% drop)
+        # Check for sudden drops in milk production
         if cow["latest_milk"] and cow["avg_milk_production"] and cow["latest_milk"]["value"] > 0:
             current_milk = cow["latest_milk"]["value"]
             milk_change_percent = (current_milk - cow["avg_milk_production"]) / cow["avg_milk_production"] * 100
