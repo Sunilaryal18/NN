@@ -13,7 +13,7 @@ db = SQLAlchemy(app)
 
 # Models
 class Cow(db.Model):
-    """Represents a cow in the farm.
+    """Represents a cow in the farm.loo
 
     Attributes:
         id (str): Unique identifier for the cow
@@ -102,11 +102,15 @@ def add_cow():
     Returns:
         JSON response confirming addition or error message
     """
-    data = request.get_json()
-    new_cow = Cow(id=data['id'], name=data['name'], birthdate=data['birthdate'])
-    db.session.add(new_cow)
-    db.session.commit()
-    return jsonify({"message": "Cow added successfully"}), 201
+    try:
+        data = request.get_json()
+        cow_data = CowCreate(**data)
+        new_cow = Cow(id=cow_data.id, name=cow_data.name, birthdate=cow_data.birthdate)
+        db.session.add(new_cow)
+        db.session.commit()
+        return jsonify({"message": "Cow added successfully"}), 201
+    except ValueError as e:
+        return jsonify({"error": str(e)}), 400
 
 @app.route('/sensors', methods=['POST'])
 def add_sensor():
@@ -207,10 +211,16 @@ def get_cow_details(id: str):
         return jsonify({"message": "Cow not found"}), 404
 
     # Calculate average milk production
-    avg_milk = db.session.query(func.avg(MilkMeasurement.value)).filter(MilkMeasurement.cow_id == id).scalar()
+    avg_milk = db.session.query(func.avg(MilkMeasurement.value)).filter(
+        MilkMeasurement.cow_id == id,
+        MilkMeasurement.value > 0
+    ).scalar()
 
     # Calculate average weight
-    avg_weight = db.session.query(func.avg(WeightMeasurement.value)).filter(WeightMeasurement.cow_id == id).scalar()
+    avg_weight = db.session.query(func.avg(WeightMeasurement.value)).filter(
+        WeightMeasurement.cow_id == id,
+        WeightMeasurement.value > 0
+    ).scalar()
 
     # Get latest milk measurement
     latest_milk = MilkMeasurement.query.filter_by(cow_id=id).order_by(MilkMeasurement.timestamp.desc()).first()
@@ -314,22 +324,22 @@ def detect_ill_cows(report: Dict[str, Any]) -> List[Dict[str, Any]]:
     """
     potentially_ill_cows = []
     for cow in report["cows"]:
-        # Check for significant weight loss (e.g., more than 5% difference between latest and average weight)
+        # Check for significant weight loss (e.g., more than 3% difference between latest and average weight)
         if cow["latest_weight"] and cow["avg_weight"] and cow["latest_weight"]["value"] > 0:
             current_weight = cow["latest_weight"]["value"]
             weight_change_percent = (current_weight - cow["avg_weight"]) / cow["avg_weight"] * 100
-            if weight_change_percent < -5:
+            if weight_change_percent < -3:
                 potentially_ill_cows.append({
                     "id": cow["id"],
                     "name": cow["name"],
                     "reason": f"Significant weight loss: {weight_change_percent:.2f}% change"
                 })
         
-        # We can also check for sudden drops in milk production
+        # Check for sudden drops in milk production (e.g., more than 15% drop)
         if cow["latest_milk"] and cow["avg_milk_production"] and cow["latest_milk"]["value"] > 0:
             current_milk = cow["latest_milk"]["value"]
             milk_change_percent = (current_milk - cow["avg_milk_production"]) / cow["avg_milk_production"] * 100
-            if milk_change_percent < -20:  # Assuming a 20% drop is significant
+            if milk_change_percent < -15:
                 potentially_ill_cows.append({
                     "id": cow["id"],
                     "name": cow["name"],
